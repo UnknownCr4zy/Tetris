@@ -1,3 +1,3 @@
 my new py
-testt
+test
 myupdate
